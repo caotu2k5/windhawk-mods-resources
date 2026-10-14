@@ -25,11 +25,11 @@ Only **Windows 11** is supported.
 
 ![Taskbar clock and horoscope tooltip](https://raw.githubusercontent.com/caotu2k5/windhawk-mods-resources/main/screenshot1.png)
 
-Taskbar clock with lunar date and detailed horoscope tooltip_
+Taskbar clock with lunar date and detailed horoscope tooltip
 
 ![Calendar flyout with lunar dates and horoscope page](https://raw.githubusercontent.com/caotu2k5/windhawk-mods-resources/main/screenshot2.png)
 
-Calendar flyout with Vietnamese lunar dates, holidays, and interactive horoscope view_
+Calendar flyout with Vietnamese lunar dates, holidays, and interactive horoscope view
 
 ## Features
 
